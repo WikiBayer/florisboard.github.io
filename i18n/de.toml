@@ -1,0 +1,23 @@
+[repo]
+    other = "Besuche GitHub repo"
+
+[privacy]
+    other = "Datenschutzerklärung"
+
+[not-found]
+    other = "Die angeforderte Ressource konnte nicht gefunden werden. Bitte überprüfen Sie die Adresse und versuchen Sie es erneut."
+
+[footer]
+    other = "Für weitere Informationen und Download-Optionen besuchen Sie das GitHub-Repositorium!"
+
+[modified]
+    other = "Letzte Änderung"
+
+[florisboard-icon]
+    other = "FlorisBoard app icon"
+
+[florisboard-screenshot]
+    other = "Florisboard Bildschirmfoto"
+
+[description]
+    other = "Eine Open-Source-Tastatur für Android, die Ihre Privatsphäre respektiert. Derzeit in der Frühen-Beta-Phase."
